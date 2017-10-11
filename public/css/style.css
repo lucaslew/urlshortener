@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+  width: 100%
+}
+
+#title {
+  padding-top: 10%;
+}
+
+#url_input {
+  width: 700px;
+  margin: 0 auto;
+}
+
+#shortenurl {
+  padding-top: 60px;
+}
+
+#alert {
+  visibility: hidden;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#error {
+  padding-top: 10%;
+}
