@@ -13,4 +13,4 @@ Ruby, Sinatra, sqlite3
 
 ## Authors
 
-* **Lucas LEw** - *Initial work*
+* **Lucas Lew**
